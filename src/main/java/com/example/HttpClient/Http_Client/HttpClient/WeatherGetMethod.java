@@ -1,4 +1,4 @@
-package com.example.HttpClient.Http_Client.HttpFolder;
+package com.example.HttpClient.Http_Client.HttpClient;
 
 import org.json.JSONArray;
 import org.json.JSONObject;

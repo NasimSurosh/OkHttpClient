@@ -1,4 +1,4 @@
-package com.example.HttpClient.Http_Client.HttpFolder;
+package com.example.HttpClient.Http_Client.HttpClient;
 
 import java.io.IOException;
 import java.net.URI;
